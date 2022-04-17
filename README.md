@@ -3,7 +3,7 @@
 I'm 20 years old, I'm Brazilian and a student of Bachelor's Degree in Information Systems at the Federal University of Pará. I've been a passionate technology enthusiast since childhood, with a special focus on the gamer niche.
 
 - 🌱 I’m currently learning back-end stack with special focus on APIs in Python.
-- 🎮✈ I am passionate about technology in general, electronic games, soccer and traveling.
+- ✈ I am passionate about technology in general, electronic games, soccer and traveling.
 - 🤔 I also have experience and appreciation in entrepreneurship. I have more than 2 years of experience in the retail business market specializing in Gamer computing.
 
 <h3 align="center">Connect with me:</h3>
