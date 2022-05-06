@@ -2,7 +2,7 @@
 
 <p align="center">Tenho 20 anos, sou paraense e apaixonado por futebol e tecnologia desde criança. </p>
 
-- 🔭 Atualmente sou acadêmico de Sistemas de Informação, Estagiário de TI e Pesquisador Voluntário na Universidade Federal do Pará (UFPA).
+- 🔭 Atualmente sou acadêmico de Sistemas de Informação e Estagiário de TI na Universidade Federal do Pará (UFPA).
 - 🌱 No momento, estou focado em desenvolvimento back-end utilizando a linguagem Python.
 - 🤔 Também possuo experiência no mercado empresarial de informática, em que atuei por mais de 2 anos como Gerente Administrativo em uma loja referência no mercado Gamer na região Norte do Brasil.
 
