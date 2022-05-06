@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, seja bem-vindo</h1>
 
-Tenho 20 anos, sou paraense apaixonado por futebol e tecnologia desde criança.
+<p align="center">Tenho 20 anos, sou paraense e apaixonado por futebol e tecnologia desde criança. </p>
 
 - 🔭 Atualmente sou acadêmico de Sistemas de Informação, Estagiário de TI e Pesquisador Voluntário na Universidade Federal do Pará (UFPA).
 - 🌱 No momento, estou focado em desenvolvimento back-end utilizando a linguagem Python.
