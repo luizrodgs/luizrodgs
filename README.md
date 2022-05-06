@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Luiz</h1>
+<h1 align="center">Olá 👋, seja bem-vindo</h1>
 
-I'm 20 years old, I'm Brazilian and a student of Bachelor's Degree in Information Systems at the Federal University of Pará. I've been a passionate technology enthusiast since childhood, with a special focus on the gamer niche.
+Tenho 20 anos, sou paraense apaixonado por futebol e tecnologia desde criança.
 
-- 🌱 I’m currently learning back-end stack with special focus on CRUD and APIs in Python.
-- ✈ I am passionate about technology in general, electronic games, soccer and traveling.
-- 🤔 I also have experience and appreciation in entrepreneurship. I have more than 2 years of experience in the retail business market specializing in Gamer computing.
+- 🔭 Atualmente sou acadêmico de Sistemas de Informação, Estagiário de TI e Pesquisador Voluntário na Universidade Federal do Pará (UFPA).
+- 🌱 No momento, estou focado em desenvolvimento back-end utilizando a linguagem Python.
+- 🤔 Também possuo experiência no mercado empresarial de informática, em que atuei por mais de 2 anos como Gerente Administrativo em uma loja referência no mercado Gamer na região Norte do Brasil.
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Conecte comigo:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizrodgs)
@@ -15,45 +15,16 @@ I'm 20 years old, I'm Brazilian and a student of Bachelor's Degree in Informatio
   
 </div>
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Linguagens <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</span>
+## Frameworks <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  </p>
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://camo.githubusercontent.com/4997da138c199f068032dccf3ec9ef35c5aa9996ccbb42d87b47d9704c342153/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d677265656e3f6c6f676f3d646a616e676f26436f6c6f723d7768697465">
-  <img src="https://camo.githubusercontent.com/0379d9f182312f494be0f1ce13d4682618d2cef2d781866f49cb18c51008cf91/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d466c61736b2d77686974653f7374796c653d666c61742d737175617265266c6f676f3d666c61736b266c6f676f436f6c6f723d626c61636b">
-</span>
+## Database <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
-
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://camo.githubusercontent.com/956a8046f5e0b85f5224ce25a61225ed7d7ffa2b8bf14698f038bb991b4cea2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079436861726d2d3337373641423f7374796c653d666c6174266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465">
-
-<h4> Operating System </h4>
-<span>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</span>
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-</span>
+## Ferramentas <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 <br>
