@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, welcome</h1>
 
+<p align="center">Currently working on Python projects</p>
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
