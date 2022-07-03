@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, welcome</h1>
+<h1 align="center">Welcome 👋</h1>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
