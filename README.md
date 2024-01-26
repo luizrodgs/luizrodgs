@@ -1,4 +1,7 @@
+<div align="center">
+  
 # Welcome!
+</div>
 <h3 align="center">Connect with me:</h3>
 
 [<div align="center">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizrodgs)[   ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCvSBRcVhy6Fm81D6lnBTv1Q)
@@ -6,7 +9,7 @@
 
 ## Cover Letter
 👋 Hello! I'm a Back-End Software Developer programming since 2019, I have a strong background in project management and corporate/IT governance. In my repos you can find personal projects, freelances, academy researches and a lot of challenges (which is my biggest hobby here).
-Occasionally, I share my knowledge and experiences about technology on my YouTube channel "Luiz Rodrigues Tech," covering relevant topics in software development, project management, and tech innovation.
+Occasionally, I share my knowledge and experiences about technology on my YouTube channel "Luiz Rodrigues Tech", covering relevant topics in software development, project management, and tech innovation.
 
 ## 🚀 Software Development Experience:
 * Back-end software developer with over a year of practice, specially in web applications and APIs.
