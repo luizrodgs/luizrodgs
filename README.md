@@ -15,7 +15,7 @@
 </p>
 
 ## Cover Letter
-👋 Hello! I'm a Back-End Software Developer programming since 2019, I have a strong background in project management and corporate/IT governance. In my repos you can find personal projects, freelances, academy researches and a lot of challenges (which is my biggest hobby here).
+👋 Hello! I'm a Back-End Software Developer programming since 2019 with a strong background in project management and corporate/IT governance. In my repos you can find personal projects, freelances, academy researches and a lot of challenges (which is my biggest hobby here).
 Occasionally, I share my knowledge and experiences about technology on my YouTube channel "Luiz Rodrigues Tech", covering relevant topics in software development, project management, and tech innovation.
 
 ## 🚀 Software Development Experience:
