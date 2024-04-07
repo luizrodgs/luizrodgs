@@ -15,17 +15,24 @@
 </p>
 
 ## Cover Letter
-👋 Hello! I'm a Back-End Software Developer programming since 2019 with a strong background in project management and corporate/IT governance. In my repos you can find personal projects, freelances, academy researches and a lot of challenges (which is my biggest hobby here).
+👋 Hello! I'm a Back-End Software Developer programming since 2019 with a strong background in project management and corporate/IT governance. In my repos you can find personal projects, freelances, academy researches and some challenges.
 Occasionally, I share my knowledge and experiences about technology on my YouTube channel "Luiz Rodrigues Tech", covering relevant topics in software development, project management, and tech innovation.
 
 ## 🚀 Software Development Experience:
-* Back-end software developer with over a year of practice, specially in web applications and APIs.
-* Proficient in Python, using frameworks like Django, DjangoREST.
-* Experience in back-end JavaScript with NodeJS.
-* Familiar with code versioning practices using Git/Github, especially with the Gitflow model.
-* Practical knowledge in SQL Databases, with experience in Postgres and MySQL.
+* Solid Knowledge in Python with Django, Flask, FastAPI, SQLAlchemy and PyTest.
+* APIs REST development.
+* Code versioning with Git/Github, especially with Gitflow model.
+* SQL and NoSQL Databases (MySQL, Postgres and MongoDB).
+* Basic NodeJS (Express/Sequelize/Mongoose) and Golang (Gin/GORM).
+* Basic Front-End with HTML, CSS and Bootstrap.
+* Basic Cloud Computing (AWS).
+* Basic Docker containerization.
+* Software engineering concepts (CI/CD, Architectures, QA, DevOps...).
 
-## 🔧 Other Technical Skills:
-* Knowledge in software engineering with code design, software architectures, and development practices.
-* Experience in containerization using Docker.
-* Basic knowledge in front-end with HTML/CSS/Bootstrap.
+## 🔧 Other Skills:
+* VBA development.
+* Projects Management (Waterfall and Agile) and IT Governance (SAFe, ITIL, COBIT).
+* Agile and Lean tools (Scrum, Kanban, SAP Activate, Lean Startup).
+* SAP Systems and Solutions (ERP, SCP and SCE).
+* Linux and Windows OS.
+
